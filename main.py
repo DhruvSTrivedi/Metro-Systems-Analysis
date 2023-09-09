@@ -8,8 +8,8 @@ def load_data():
     Load the datasets into pandas DataFrames.
     """
     # Load the CSV files into DataFrames
-    df_countries_cities = pd.read_csv('/Users/dhruvtrivedi/Desktop/archive (1)/metro_countries_cities.csv')
-    df_countries_total = pd.read_csv('/Users/dhruvtrivedi/Desktop/archive (1)/metro_countries_total.csv')
+    df_countries_cities = pd.read_csv('metro_countries_cities.csv')
+    df_countries_total = pd.read_csv('metro_countries_total.csv')
     
     return df_countries_cities, df_countries_total
 

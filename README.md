@@ -4,7 +4,7 @@
 
 Analyze and visualize metro systems data from various countries, focusing on their recent developments, total lengths, and other key metrics.
 
-![ideogram (1)](https://github.com/DhruvSTrivedi/Metro-Systems-Analysis/assets/143839140/25358e07-1502-430a-9551-fba6b1e37099)
+![ideogram (1)](MET_IMAG/ideogram_1.jpeg)
 
 
 ## 📌 Table of Contents
@@ -63,9 +63,9 @@ In terms of average ridership per system, Germany tops the list with approximate
 The project offers multi-faceted visualizations:
 
 1. **Bar Chart**: Displays the latest year of metro expansion against the total metro length for the top 10 countries.
-   ![image](https://github.com/DhruvSTrivedi/Metro-Systems-Analysis/assets/143839140/eac298b6-834b-42c0-a62c-02856c47a83d)
+   ![image](MET_IMAG/Bar.png)
    
 2. **Scatter Plot**: Showcases the relationship between the average length per metro system and the average ridership per system.
-   ![image](https://github.com/DhruvSTrivedi/Metro-Systems-Analysis/assets/143839140/be25de9a-3bd3-49b5-933c-4d8624994544)
+   ![image](MET_IMAG/Scatter.png)
    
 ---
